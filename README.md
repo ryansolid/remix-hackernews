@@ -1,7 +1,6 @@
-# Welcome to Remix!
+# Remix Hackernews
 
-- [Remix Docs](https://remix.run/docs)
-
+You can see the live demo [here](https://remix-hackernews.ryansolid.workers.dev/)
 ## Development
 
 You will be running two processes during development:
